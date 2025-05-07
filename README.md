@@ -1,5 +1,8 @@
 # Tableau Sales Dashboard 💵📈
 
+![Sales Dashboard Preview](preview/sales_dashboard.png)
+![Customer Dashboard Preview](preview/customer_dashboard.png)
+
 This project is an interactive Tableau dashboard designed to analyze sales performance
 and customer behavior over time. 
 The dashboard highlights trends, performance metrics, and key insights
