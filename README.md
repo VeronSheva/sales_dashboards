@@ -8,7 +8,7 @@ and customer behavior over time.
 The dashboard highlights trends, performance metrics, and key insights
 across multiple years.
 
-🔗 [View the Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17466211513670/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View the Dashboard on Tableau Public](https://public.tableau.com/views/sales_dahboards/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🛠 Tools Used
 Tableau Public – Data visualization and dashboard development
